@@ -1,4 +1,4 @@
-# adjustavble-perspektive
+# adjustable-perspektive
 
 
 Rotete oppsett for en perspektiv tegnig som kan flyttes på. Under konstruksjon
